@@ -1,0 +1,47 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Thor",
+    "longName": "bitbackofen watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/hack_logo2.png",
+                "name": "HACK_LOGO_2",
+                "type": "png"
+            },
+            {
+                "file": "images/hack_logo.png",
+                "name": "HACK_LOGO",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "bitface",
+    "uuid": "2b4e2c04-6c91-4e45-a898-dcb048a96cf0",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
